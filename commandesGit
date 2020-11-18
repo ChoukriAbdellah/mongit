@@ -1,0 +1,7 @@
+echo "Projet blog hamza" >> README.md
+git init
+git add README.md
+git commit -m "commit du projet vers git"
+git branch -M main
+git remote add origin https:https://github.com/Hamza34000/mongit.git
+git push -u origin main
